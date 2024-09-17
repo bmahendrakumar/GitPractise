@@ -14,3 +14,7 @@
 14br1
 15
 14master
+squash1
+squash2
+squash3
+squash4
